@@ -1,0 +1,12 @@
+Student Name: Samuel Ntim
+Student ID: 22425698
+Project Title: FindBack — Campus Lost & Found
+Live Application: https://campus-property-recovery-ug-edu-gh.manus.space/
+Admin URL: https://campus-property-recovery-ug-edu-gh.manus.space/admin
+Test Username: psalmntim7@gmail.com
+Test Password: OAuth account — no application password
+Admin Username: Kugbeeflokydhalin@gmail.com
+Admin Password: OAuth account — no application password
+Source Code Repository: https://github.com/sntim/campus-lost-found_22425698
+
+Verification note: The published GitHub repository has been checked for the expected FindBack source folders and root configuration files. Test the live URL, /admin route, authentication, image upload, claim decision notification, and repository access immediately before uploading the final ZIP to Sakai. The current designated administrator account must be confirmed against the latest published checkpoint before submission.

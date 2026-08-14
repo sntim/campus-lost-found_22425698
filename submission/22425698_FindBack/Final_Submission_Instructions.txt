@@ -1,0 +1,23 @@
+FIND BACK — FINAL SUBMISSION STATUS
+
+Student Name: Samuel Ntim
+Student ID: 22425698
+Project Title: FindBack — Campus Lost & Found
+Live Application: https://campus-property-recovery-ug-edu-gh.manus.space/
+Admin URL: https://campus-property-recovery-ug-edu-gh.manus.space/admin
+Student Test Account: psalmntim7@gmail.com — OAuth account; no application password
+Administrator Account: Kugbeeflokydhalin@gmail.com — OAuth account; no application password
+Source Code Repository: https://github.com/sntim/campus-lost-found_22425698
+
+COMPLETED
+1. Student name and student ID have been inserted in the documentation.
+2. Live deployment and administrator URLs have been recorded.
+3. OAuth access guidance and designated test-account details have been recorded.
+4. The public GitHub source repository has been recorded and its expected project structure verified.
+
+FINAL CHECKS BEFORE SAKAI UPLOAD
+1. Open the live application and confirm it loads.
+2. Sign in with the designated administrator account and confirm `/admin` opens.
+3. Execute any remaining manual cases in `Testing_Report.pdf` and record only the actual observed result.
+4. Keep the live application and GitHub repository accessible to the lecturer during marking.
+5. Upload the final ZIP, not an older prepared submission ZIP.
