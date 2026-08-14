@@ -1,0 +1,11 @@
+{
+  "task_kind": "markdown-to-pdf",
+  "output": "pdf",
+  "signals": ["academic project report", "software engineering capstone"],
+  "hard_constraints": ["A4 portrait", "structured technical report"],
+  "content_features": {
+    "code_blocks": 1,
+    "defined_terms": 8,
+    "portrait_images": 0
+  }
+}

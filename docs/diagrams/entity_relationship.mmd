@@ -1,0 +1,33 @@
+erDiagram
+  USERS ||--o{ ITEMS : reports
+  USERS ||--o{ CLAIMS : submits
+  ITEMS ||--o{ CLAIMS : receives
+  USERS ||--o{ NOTIFICATIONS : receives
+
+  USERS {
+    int id PK
+    string role
+    string name
+    string email
+  }
+  ITEMS {
+    int id PK
+    int reporterId FK
+    string reportType
+    string status
+    string title
+    string category
+    date eventDate
+  }
+  CLAIMS {
+    int id PK
+    int itemId FK
+    int claimantId FK
+    string claimStatus
+  }
+  NOTIFICATIONS {
+    int id PK
+    int userId FK
+    string type
+    boolean isRead
+  }

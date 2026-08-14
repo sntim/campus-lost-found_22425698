@@ -1,0 +1,26 @@
+# Project TODO
+
+- [x] Define the FindBack scope, stakeholders, functional requirements, non-functional requirements, and acceptance criteria.
+- [x] Prepare a justified effort estimate and ensure the MVP scope is feasible within the 48-hour examination window.
+- [x] Design the data model for student/admin users, item reports, ownership claims, and in-app notifications.
+- [x] Implement student and admin role-based access control, protected procedures, and authenticated route behaviour.
+- [x] Implement secure image upload for optional lost and found item photographs using managed object storage.
+- [x] Implement validated lost-item reporting with title, description, category, date, location, optional image, and lost status.
+- [x] Implement validated found-item reporting with title, description, category, date, location, optional image, and found status.
+- [x] Implement public item browsing with keyword search, category/status/date filtering, pagination, loading states, and empty states.
+- [x] Implement an item-details view that restricts reporter contact information until an approved ownership claim exists.
+- [x] Implement ownership-claim submission by authenticated students, including validation and duplicate-claim protection.
+- [x] Implement an administrator dashboard for item status management and claim approval or rejection.
+- [x] Enforce the exact permitted item statuses: lost, found, resolved, archived.
+- [x] Implement in-app notifications for claim approval and rejection, including a visible unread state.
+- [x] Implement a profile page that lists each student’s reported items and submitted claims with current statuses.
+- [ ] Complete the feedback-state and toast audit so every interactive action has intentional user feedback and every key query has a loading, empty, and error state.
+- [ ] Re-run browser verification across browse, report, item detail, profile, and administration after the feedback-state audit.
+- [ ] Add explicit notification-dropdown query error feedback and complete the remaining shell, home, browse, and item-detail interaction-toast audit.
+- [ ] Verify an authenticated item-detail route after the final feedback-state audit.
+- [ ] Write and execute unit, integration, functional, security, system, and user-acceptance test evidence appropriate to the scope.
+- [x] Document technical debt with cause, impact, priority, and repayment strategy.
+- [x] Prepare system-design diagrams, SRS, deployment/source links, user manual, maintenance plan, future-evolution plan, and consolidated examination documentation.
+- [x] Validate the production-ready build, review all task completion states, and save the final project checkpoint.
+- [ ] Publish the final checkpoint, complete the live student/admin acceptance-test checklist, and enter verified links and credentials in Deployment_and_Source_Links.txt.
+- [x] Make the homepage hero’s Privacy-first claims and Administrator review prompts actionable, with appropriate role-aware feedback and destinations.
